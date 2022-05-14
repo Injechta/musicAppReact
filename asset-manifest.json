@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Injechta/musicAppReact/static/css/main.dedd70f2.css",
-    "main.js": "/Injechta/musicAppReact/static/js/main.d1056938.js",
-    "index.html": "/Injechta/musicAppReact/index.html",
-    "main.dedd70f2.css.map": "/Injechta/musicAppReact/static/css/main.dedd70f2.css.map",
-    "main.d1056938.js.map": "/Injechta/musicAppReact/static/js/main.d1056938.js.map"
+    "main.css": "/musicAppReact/static/css/main.dedd70f2.css",
+    "main.js": "/musicAppReact/static/js/main.d1056938.js",
+    "index.html": "/musicAppReact/index.html",
+    "main.dedd70f2.css.map": "/musicAppReact/static/css/main.dedd70f2.css.map",
+    "main.d1056938.js.map": "/musicAppReact/static/js/main.d1056938.js.map"
   },
   "entrypoints": [
     "static/css/main.dedd70f2.css",
